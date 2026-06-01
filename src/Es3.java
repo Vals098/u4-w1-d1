@@ -13,7 +13,7 @@ public class Es3 {
 
 
         int result = perimeter(width, height);
-        System.out.println(result);
+        System.out.println("Perimeter:" + result);
 
 
     }
